@@ -13,7 +13,7 @@ import (
 	earthlyast "github.com/earthly/earthly/ast"
 	earthlyastspec "github.com/earthly/earthly/ast/spec"
 	"github.com/sirupsen/logrus"
-	"github.com/wingyplus/earthlylsp/internal/protocol"
+	"github.com/wingyplus/earthlyls/internal/protocol"
 )
 
 type LangServer struct {
