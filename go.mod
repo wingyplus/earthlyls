@@ -3,7 +3,7 @@ module github.com/wingyplus/earthlyls
 go 1.16
 
 require (
-	github.com/creachadair/jrpc2 v0.20.0
+	github.com/creachadair/jrpc2 v0.30.1
 	github.com/earthly/earthly v0.5.22
 	github.com/sirupsen/logrus v1.8.1
 )
